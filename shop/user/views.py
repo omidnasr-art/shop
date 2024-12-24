@@ -5,3 +5,5 @@ def register (request):
     if request.method == 'GET':
         pass
     pass
+def login(request):
+    pass
